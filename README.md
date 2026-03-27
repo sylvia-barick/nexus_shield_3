@@ -31,13 +31,13 @@ This project demonstrates:
 
 # 🎥 Demo Video (Visible)
 
-<video src="./demo.mp4" controls width="700"></video>
+<video src="./syl.lvl3.mp4" controls width="700"></video>
 
 ---
 
 ## 🧪 Test Results
 
-![Test Output](./test.png)
+![Test Output](./test.jpeg)
 
 ✔ 4 Tests Passed  
 ✔ Jest implemented successfully  
