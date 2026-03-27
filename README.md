@@ -29,9 +29,9 @@ This project demonstrates:
 
 ---
 
-# 🎥 Demo Video (Visible)
+# 🎥 Demo Video 
 
-<video src="./syl_lvl3.mp4" controls width="700"></video>
+[![Watch Demo](https://img.youtube.com/vi/UFyAjqhb3is/0.jpg)](https://youtu.be/UFyAjqhb3is)
 
 ---
 
