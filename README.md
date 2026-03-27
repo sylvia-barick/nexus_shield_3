@@ -240,3 +240,12 @@ This project fully satisfies **Level 2 (Yellow Belt)** requirements.
 ---
 
 ✨ Built for Stellar ecosystem
+
+---
+
+## 🧪 Test Results
+
+✔ All tests passing (3+ tests)
+
+![Test Output](./test.png)
+
