@@ -44,31 +44,6 @@ This project demonstrates:
 
 ---
 
-# 🏗️ Architecture (Modified)
-
-```mermaid
-graph TD
-
-A[User] --> B[Frontend (Next.js)]
-B --> C[Wallet Layer]
-
-C -->|Freighter| D[Freighter API]
-C -->|Albedo| E[Albedo Intent]
-
-D --> F[⚡ Transaction Builder]
-E --> F
-
-F --> G[📡 Stellar RPC Server]
-G --> H[📜 Smart Contract (Soroban)]
-
-H --> I[🔄 Blockchain Response]
-I --> J[📊 State Sync Layer]
-
-J --> K[🎯 UI Update (Status + Hash)]
-```
-
----
-
 # 🔄 Flowchart (Modified)
 
 ```mermaid
