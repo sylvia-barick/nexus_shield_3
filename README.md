@@ -31,7 +31,7 @@ This project demonstrates:
 
 # 🎥 Demo Video (Visible)
 
-<video src="./syl.lvl3.mp4" controls width="700"></video>
+<video src="./syl_lvl3.mp4" controls width="700"></video>
 
 ---
 
@@ -180,10 +180,10 @@ pnpm test
 ## 📸 Screenshots
 
 ### 🔗 Wallet Connection
-![Wallet](./wallet.png)
+![Wallet](./wallet.jpeg)
 
 ### ⚡ Transaction Success
-![Transaction](./transaction.png)
+![Transaction](./transaction.jpeg)
 
 ---
 
