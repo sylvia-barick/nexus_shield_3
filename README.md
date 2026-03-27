@@ -1,4 +1,4 @@
-# 🚀 Nexus Shield – Stellar Mini dApp (Level 3 Submission)
+# 🚀 Nexus Shield – Stellar Mini dApp 
 
 ---
 
