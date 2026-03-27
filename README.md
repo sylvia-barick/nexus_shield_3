@@ -48,8 +48,9 @@ This project demonstrates:
 
 ```mermaid
 graph TD
-A[👤 User] --> B[🌐 Frontend (Next.js)]
-B --> C[🔗 Wallet Layer]
+
+A[User] --> B[Frontend (Next.js)]
+B --> C[Wallet Layer]
 
 C -->|Freighter| D[Freighter API]
 C -->|Albedo| E[Albedo Intent]
