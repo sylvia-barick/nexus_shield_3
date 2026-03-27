@@ -139,14 +139,6 @@ pnpm test
 
 ---
 
-## 🔗 Smart Contract Details
-
-- Network: Stellar Testnet  
-- RPC: https://soroban-testnet.stellar.org  
-- Contract ID: `YOUR_CONTRACT_ID`
-
----
-
 ## 🔍 Transaction Verification
 
 👉 https://stellar.expert/explorer/testnet/tx/<TRANSACTION_HASH>
